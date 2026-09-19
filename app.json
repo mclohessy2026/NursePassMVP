@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "NursePass",
+    "slug": "nursepass",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F7F5F0"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.marquislearning.nursepass"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#F7F5F0"
+      },
+      "package": "com.marquislearning.nursepass"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
